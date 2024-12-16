@@ -1,0 +1,10 @@
+# add the file to  git ignore
+env
+
+
+# add pyc file
+*.pyc
+
+# migration file
+migrations/
+
